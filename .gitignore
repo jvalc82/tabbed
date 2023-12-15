@@ -1,0 +1,6 @@
+tabbed_temp/
+patches/
+*.o
+*.diff
+*.patch
+tabbed
